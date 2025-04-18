@@ -1,5 +1,5 @@
 
-# Geology
+# Stop 1: General Geology
 
 As one of the youngest Canary Islands, La Palma has a short but dramatic geological history. 
 

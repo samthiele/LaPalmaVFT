@@ -1,5 +1,5 @@
 
-# Barranco de las Angustias and the Seamount Complex
+# Stop 5: Barranco de las Angustias
 
 The deeper valleys of Caldera Taburiente (including, most notably, Barranco de las Angustias) cut into the "seamount complex", which forms the basement to Volcán Taburiente (and the older Volcán Garafìa). 
 

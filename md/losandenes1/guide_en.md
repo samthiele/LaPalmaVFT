@@ -1,5 +1,5 @@
 
-# Los Andenes
+# Stop 3: Los Andenes
 
 This guide is yet to be written.
 
