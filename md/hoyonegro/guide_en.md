@@ -9,4 +9,4 @@ These latter *phreatomagmatic* deposited the distinctively yellow layers of ash,
 
 Large blocks of basalt thrown into these ash layers during the eruption attest to the violence of the explosions, with some thrown more than 1 km from the vent!
 
-![Basaltic bombs exposed in an older palagonite tuff bed at Los Andenes. Note the shape of the spindle bomb on the left, indicating the bomb was a spinning blob of lava when it was ejected from the vent](/img/bombs.jpg)
+![Basaltic bombs exposed in an older palagonite tuff bed at Los Andenes. Note the shape of the spindle bomb on the left, indicating the bomb was a spinning blob of lava when it was ejected from the vent](img/bombs.jpg)

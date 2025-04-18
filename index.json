@@ -204,7 +204,7 @@
                 "pos": [174.04031809831451,-27.590992492574383,35.976402325371055]  }  },
         "mediaType": "cloud",
         "mediaURL": "LosAndenes1.zarr",
-        "pointSize": 0.125,
+        "pointSize": 0.12,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
             "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
@@ -261,7 +261,10 @@
                 "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  },
             "label3": {
                 "html": "Gas bubble (slug)",
-                "pos": [-3.6901905003254023,-64.7261204525068,33.079795069486984]  }  },
+                "pos": [-3.6901905003254023,-64.7261204525068,33.079795069486984]  },
+            "label4": {
+                "html": "Magma flow direction",
+                "pos": [-5.79768558794477,-63.932001070883004,36.04126452754151]  }  },
         "mediaType": "cloud",
         "mediaURL": "LosAndenes1.zarr",
         "pointSize": 0.125,
@@ -355,7 +358,13 @@
                 "pos": [-84.29810557486515,0.021946103816548313,52.17114521134292]  },
             "label6": {
                 "html": "El Teide (Tenerife)",
-                "pos": [-7.505823009035764,2.922287073373309,98.74060983116485]  }  },
+                "pos": [-7.505823009035764,2.922287073373309,98.74060983116485]  },
+            "label7": {
+                "html": "Dyke with drainback structures",
+                "pos": [-86.89227179298994,-47.51877726583677,3.072203610462523]  },
+            "label8": {
+                "html": "<a href='./#/losandenes1'>Los Andenes</a>",
+                "pos": [96.92673934803172,-7.352924887404159,19.76756228416775]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/muchachos/ps.jpg",
         "tabs": {

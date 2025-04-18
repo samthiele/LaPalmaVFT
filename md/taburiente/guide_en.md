@@ -1,4 +1,4 @@
-# Stop 2: Caldera Taburiente
+# Caldera Taburiente
 
 The collapse of Volcàn Taburiente in a giant landslide ~550 thousand years ago exposed the relatively weak volcanic rocks on which the volcano's summit was built.  
 
