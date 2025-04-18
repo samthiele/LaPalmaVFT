@@ -1,0 +1,462 @@
+{
+"annotURL": "./annotations.json",
+"cloudURL": "https://storage.googleapis.com/rockhopper",
+"languages": ["en","es","de"],
+"sites": {
+    "geology": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to start</a>",
+                "pos": [9871.243929358332,2025.1615344175482,-803.8728547680221]  },
+            "label2": {
+                "html": "Tajogaite",
+                "pos": [683.8462346908777,-5827.901636859417,1810.3388252531706]  },
+            "label3": {
+                "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
+                "pos": [-1436.1141289602904,5683.56769054309,600.7602018377311]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LaPalma.zarr",
+        "pointSize": 38,
+        "tabs": {
+            "Guide": ["./md/geology/guide_en.md","./md/geology/guide_es.md","./md/geology/guide_de.md"],
+            "Questions": ["./md/geology/questions_en.md","./md/geology/questions_es.md","./md/geology/questions_de.md"]  },
+        "view": {
+            "pos": [7133.74806328849,-337.18827951971844,109768.94904922805],
+            "style": "geology",
+            "tgt": [7133.749611628183,-337.0766329500352,-1871.0008852439091]  }  },
+    "hoyonegro": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [94.31918885460303,8.891951588373106,-29.256977313131305]  },
+            "label2": {
+                "html": "Hoyo Negro Vent (1949)",
+                "pos": [-85.41553861361548,-32.326695166180535,-38.64763607405717]  },
+            "label3": {
+                "html": "Palagonite tuff",
+                "pos": [9.120841984327633,-17.68510084895554,-97.1194207411495]  },
+            "label4": {
+                "html": "Scoriaceous breccia",
+                "pos": [-91.98226969093156,-37.03756318647509,-1.1406399217232497]  },
+            "label5": {
+                "html": "Volcanic bombs",
+                "pos": [-24.297223801802925,-44.07634263142001,-85.38275954304113]  },
+            "label6": {
+                "html": "<a href='./#losandenes1'>See what happens beneath a volcanic vent at Los Andenes</a>",
+                "pos": [-82.95486070932371,-39.767641826570795,-37.0783736559599]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/hoyonegro/ps.jpg",
+        "tabs": {
+            "Guide": ["./md/hoyonegro/guide_en.md","./md/hoyonegro/guide_es.md","./md/hoyonegro/guide_de.md"]  }  },
+    "hoyoverdecliff": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [309.3471338246039,-420.81106555480875,143.40332127914422],
+            "tgt": [39.7436073417919,31.291169123791356,-9.06673471856191]  }  },
+    "hoyoverdecliffa": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [31.671608899150186,-85.57668894203965,90.82572314865578],
+            "tgt": [-6.8114354684004965,23.10632522086868,58.33987456664948]  }  },
+    "hoyoverdecliffb": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [33.07978412504233,-44.07339002387805,117.38199762682513],
+            "tgt": [3.6821161120499566,15.566584748106267,55.076049797424886]  }  },
+    "hoyoverdecliffc": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [60.80672068753063,-233.9635373429784,42.88314844481518],
+            "tgt": [-4.715749108878812,-9.090078116792151,-14.290090881105375]  }  },
+    "hoyoverdecliffd": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  },
+            "label4": {
+                "html": "Geologist",
+                "pos": [-9.912786527995532,-91.0203618570991,-141.51434956011528]  },
+            "label5": {
+                "html": "Peperite",
+                "pos": [-9.473223266803249,-93.01750090789598,-141.36312573373561]  },
+            "label6": {
+                "html": "Multi-Dyke",
+                "pos": [-10.46052411293955,-87.90505914654739,-141.54203111030836]  },
+            "label7": {
+                "html": "Basal breccia",
+                "pos": [-14.89951210268344,-84.50961825972323,-137.9121560330783]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [17.827109986927073,-107.30289870268358,-119.99860185221632],
+            "tgt": [-10.18396170090826,-86.98178801959914,-140.40656106140628]  }  },
+    "idafe": {
+        "labels": {
+            "label1": {
+                "html": "Basaltic dyke",
+                "pos": [87.49629914541745,-0.6115465260427925,-46.5410020569043]  },
+            "label2": {
+                "html": "Felsic (Trachyte) dyke",
+                "pos": [68.04864349646752,12.231759270237452,-70.94302800867693]  },
+            "label3": {
+                "html": "Sheeted dyke complex",
+                "pos": [59.80287114785192,-27.531828011203235,-74.0020439473367]  },
+            "label4": {
+                "html": "<a href='./#hoyoverdecliff'>Back to Hoyo Verde</a>",
+                "pos": [-29.116731323183604,-5.861250857655446,94.56970949250183]  },
+            "label5": {
+                "html": "<a href='./#/start'>Back to start</a>",
+                "pos": [-76.37205312072773,-4.456760638812266,-62.903361626537354]  },
+            "label6": {
+                "html": "<a href='https://en.wikipedia.org/wiki/Idafe_Rock'>Roque Idafe</a>",
+                "pos": [-30.65486332515828,52.89696796924013,78.01039404385673]  },
+            "label7": {
+                "html": "<a href='./#taburiente'>To Caldera Taburiente</a>",
+                "pos": [40.80396425816281,11.985649124153044,89.54706678063752]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/idafe/ps.jpg",
+        "tabs": {
+            "Guide": ["./md/idafe/guide_en.md","./md/idafe/guide_es.md","./md/idafe/guide_de.md"],
+            "Quizz": ["./md/idafe/quizz_en.md","./md/idafe/quizz_es.md","./md/idafe/quizz_de.md"]  },
+        "view": {
+            "pos": [9.754899172857833,0.5314797716894611,2.1352918722416043],
+            "tgt": [0,0,0]  }  },
+    "losandenes1": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  },
+            "label3": {
+                "html": "<a href='./#taburiente'>Back to Caldera Taburiente</a>",
+                "pos": [174.04031809831451,-27.590992492574383,35.976402325371055]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [15.210031787526967,12.515012006453125,480.6822936308767],
+            "tgt": [15.209944313748986,12.514524513529656,-13.53309427827359]  }  },
+    "losandenes1a": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  },
+            "label4": {
+                "html": "Palagonite Tuff",
+                "pos": [-117.4912378315068,35.8332079624417,19.993421537777394]  },
+            "label5": {
+                "html": "Lava flow",
+                "pos": [-118.18220883590288,37.165812911725034,24.668443650810985]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [-75.59017109813672,42.270112793997804,32.149193167002],
+            "tgt": [-118.12667187403459,40.43601782012479,20.244971191774393]  }  },
+    "losandenes1b": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [-2.2793291810799587,42.489519879576925,49.63652562479804],
+            "tgt": [-56.03004747344655,-42.57682744118312,31.536773087091703]  }  },
+    "losandenes1c": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  },
+            "label3": {
+                "html": "Gas bubble (slug)",
+                "pos": [-3.6901905003254023,-64.7261204525068,33.079795069486984]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [11.552093658458116,-47.856076062778484,30.628215181925444],
+            "tgt": [-2.3231422403856934,-63.413658881757534,30.746445419009795]  }  },
+    "losandenes1d": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [106.86598762012102,7.384907364201364,39.07163699228352],
+            "tgt": [152.93446804369188,-21.757421204810033,20.641144011529843]  }  },
+    "losandenes1e": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
+            "label2": {
+                "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LosAndenes1.zarr",
+        "pointSize": 0.125,
+        "tabs": {
+            "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
+            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+        "view": {
+            "pos": [94.64003634920037,275.12123020202654,2.2766193789386815],
+            "tgt": [31.78428871365649,-58.96694990938422,7.524989225193115]  }  },
+    "mirador": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
+                "pos": [-97.45337960526332,-11.879862320099809,13.23554346150339]  },
+            "label2": {
+                "html": "<a href='./#start'>Return to start</a>",
+                "pos": [98.35893570104795,-7.674207400687565,-10.657886632682597]  },
+            "label3": {
+                "html": "Risco Liso",
+                "pos": [-90.69835161399116,20.166687961780955,34.3119417375909]  },
+            "label4": {
+                "html": "Volcanic breccia, possibly formed by the collapse of Volc\u00e0n Garaf\u00eca",
+                "pos": [29.61211273603182,30.804159183739106,-89.54844163902499]  },
+            "label5": {
+                "html": "<a href='https://en.wikipedia.org/wiki/Pinus_canariensis'>Endemic pine trees!</a>",
+                "pos": [-25.977495851800928,55.987750672070646,-77.59656652041815]  },
+            "label6": {
+                "html": "<a href='./#muchachos'>Roque de los Muchachos</a>",
+                "pos": [-97.20277502607182,19.332802154892548,1.2787669274189377]  },
+            "label8": {
+                "html": "<a href='img/cumbrecitaBreccia.jpg'><img src='img/cumbrecitaBreccia.jpg' width='150px'></a>Matrix-rich volcanic breccia",
+                "pos": [83.12328737726762,-1.507392688725977,-53.87343375303162]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/mirador/ps.jpg",
+        "tabs": {
+            "Guide": ["./md/mirador/guide_en.md","./md/mirador/guide_es.md","./md/mirador/guide_de.md"],
+            "Quizz": ["./md/mirador/quizz_en.md","./md/mirador/quizz_es.md","./md/mirador/quizz_de.md"]  },
+        "view": {
+            "pos": [8.66785192251952,-0.9080272395442585,4.903450783022239],
+            "tgt": [0,0,0]  }  },
+    "muchachos": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#mirador'>Mirador de la Cumbrecita</a>",
+                "pos": [-71.69294508323165,-15.594573084575778,66.72985154428774]  },
+            "label2": {
+                "html": "<a href='./#observatory'>Observatory</a>",
+                "pos": [99.1851527191077,-0.081295449183723,-1.1648161279671945]  },
+            "label3": {
+                "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
+                "pos": [-75.56849596314277,-26.006557893471403,58.55118958470962]  },
+            "label4": {
+                "html": "Bejenado",
+                "pos": [-90.20721647279419,-6.115764595363116,40.74645266593731]  },
+            "label5": {
+                "html": "Cumbre Vieja",
+                "pos": [-84.29810557486515,0.021946103816548313,52.17114521134292]  },
+            "label6": {
+                "html": "El Teide (Tenerife)",
+                "pos": [-7.505823009035764,2.922287073373309,98.74060983116485]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/muchachos/ps.jpg",
+        "tabs": {
+            "Guide": ["./md/muchachos/guide_en.md","./md/muchachos/guide_es.md","./md/muchachos/guide_de.md"]  },
+        "view": {
+            "pos": [8.661781480895778,2.2796682546991547,-4.447095032234732],
+            "tgt": [0,0,0]  }  },
+    "observatory": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#taburiente'>Next stop: Caldera Taburiente</a>",
+                "pos": [11.454927026440728,-17.497584272392967,96.90235550020782]  },
+            "label3": {
+                "html": "<a href='./#mirador'>Mirador de la Cumbrecita</a>",
+                "pos": [-7.323026075895787,-12.079072420987126,98.05101198977195]  }  },
+        "mediaType": "photosphere",
+        "mediaURL": "./img/observatory/ps.jpg",
+        "tabs": {
+            "Guide": ["./md/observatory/guide_en.md","./md/observatory/guide_es.md","./md/observatory/guide_de.md"]  },
+        "view": {
+            "pos": [8.837322049025222,-3.9076895023224436,2.5752090702025145],
+            "tgt": [0,0,0]  }  },
+    "start": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#hoyoverdecliff'>Hoyo Verde</a>",
+                "pos": [-1707.3026656056481,8074.362491418986,1952.2180064654576]  },
+            "label2": {
+                "html": "<a href='./#losandenes1'>Los Andenes</a>",
+                "pos": [-682.1708209524138,10236.09861448149,3407.007221543956]  },
+            "label3": {
+                "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
+                "pos": [-1436.1141289602904,5683.56769054309,600.7602018377311]  },
+            "label4": {
+                "html": "Tajogaite",
+                "pos": [-890.4727635377268,-5272.994614639911,806.4629474709436]  },
+            "label5": {
+                "html": "<a href='./#/hoyonegro'>Cumbre Vieja</a>",
+                "pos": [1771.8760290131954,-11092.531842625192,2557.536116982785]  },
+            "label6": {
+                "html": "<a href='./#geology'>Start virtual tour!</a>",
+                "pos": [9364.89384727018,802.6596141614565,-816.5664327479527]  },
+            "label7": {
+                "html": "<a href='./#idafe'>Barranco de las Angustias</a>",
+                "pos": [-4984.2957373742265,1863.882348330126,-349.96459889163066]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "LaPalma.zarr",
+        "pointSize": 30,
+        "tabs": {
+            "Guide": ["./md/overview/guide_en.md","./md/overview/guide_es.md","./md/overview/guide_de.md"]  },
+        "view": {
+            "pos": [463.4313179509482,-59618.78499714068,54677.36590617528],
+            "tgt": [463.4313179509482,-3035.915882459195,-1905.5032085089292]  }  },
+    "taburiente": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#losandenes1'>Next stop: Los Andenes</a>",
+                "pos": [326.11779700696735,3326.5127316750904,562.8146030055486]  },
+            "label3": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [-2190.028472057024,-3473.914163161022,-1166.251136058635]  },
+            "label4": {
+                "html": "<a href='./#muchachos'>Roque de los Muchachos</a>",
+                "pos": [-989.4816630338483,2319.140925664012,833.8009951605396]  },
+            "label6": {
+                "html": "<a href='./#observatory'>Observatory</a>",
+                "pos": [-546.6126717609383,3088.7263198286187,779.9797531663348]  },
+            "label7": {
+                "html": "<a href='./#mirador'>Mirador de la Cumbrecita</a>",
+                "pos": [1796.7807412179723,-3648.204703185306,-179.7417429347274]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "Taburiente.zarr",
+        "pointSize": 5,
+        "tabs": {
+            "Guide": ["./md/taburiente/guide_en.md","./md/taburiente/guide_es.md","./md/taburiente/guide_de.md"],
+            "Quizz": ["./md/taburiente/questions_en.md","./md/taburiente/questions_es.md","./md/taburiente/questions_de.md"]  },
+        "view": {
+            "pos": [-29.08415024077983,144.22755900945126,11886.24427075173],
+            "tgt": [-29.083670015666875,144.23970591257498,-233.33545387364657]  }  }  },
+"synonyms": {
+    "geology": "geology",
+    "hoyonegro": "hoyonegro",
+    "hoyoverdecliff": "hoyoverdecliff",
+    "hoyoverdecliffa": "hoyoverdecliffa",
+    "hoyoverdecliffb": "hoyoverdecliffb",
+    "hoyoverdecliffc": "hoyoverdecliffc",
+    "hoyoverdecliffd": "hoyoverdecliffd",
+    "idafe": "idafe",
+    "losandenes1": "losandenes1",
+    "losandenes1a": "losandenes1a",
+    "losandenes1b": "losandenes1b",
+    "losandenes1c": "losandenes1c",
+    "losandenes1d": "losandenes1d",
+    "losandenes1e": "losandenes1e",
+    "mirador": "mirador",
+    "muchachos": "muchachos",
+    "observatory": "observatory",
+    "start": "start",
+    "taburiente": "taburiente"  },
+"tabs": {
+    "Help": ["./md/help_en.md","./md/help_es.md","./md/help_de.md"],
+    "Notebook": ["./md/notes_en.md","./md/notes_es.md","./md/notes_de.md"],
+    "References": ["./md/references_en.md","./md/references_es.md","./md/references_de.md"],
+    "_order": ["Notebook","References","Help"]  }  }
