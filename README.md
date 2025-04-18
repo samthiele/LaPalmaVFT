@@ -6,7 +6,7 @@ Click here to start the VFT: https://samthiele.github.io/LaPalmaVFT/#/start
 
 Enjoy!
 
-![Cool picture of Caldera Taburiente ](img/RiscoLisoSummit.jpg)
+![Cool picture of Caldera Taburiente ](img/riscoLisoSummit.jpg)
 *The summit of Risco Liso pokes above the clouds that fill Caldera Taburiente most afternoons.*
 
 ## Contact and Contribute

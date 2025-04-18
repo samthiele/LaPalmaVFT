@@ -8,7 +8,7 @@ This mystical place, a rugged garden of waterfalls and lush vegetation walled in
 
 ![The caldera often fills with clouds, giving eternal, prehistoric vibes.](./img/taburiente.jpg)
 
-![View of the 1.5 km high cliff "Risco Liso" from inside Caldera Taburiente.](./img/risco_liso.jpg)
+![View of the 1.5 km high cliff "Risco Liso" from inside Caldera Taburiente.](./img/riscoLiso.jpg)
 
 ## Historical significance
 

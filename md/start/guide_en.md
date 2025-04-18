@@ -8,7 +8,7 @@ This virtual field trip lets you explore some of these wonders, and see the inne
 
 ![La Palma is the western-most island of the Canary archipelago. It is also one of the youngest (geologically speaking), and most volcanically active](https://astro-travels.com/pictures/Canarias-1.jpg)
 
-![The dramatic cliffs around Caldera Taburiente offer a near-uninterrupted geological journey deep into the volcanic interior of La Palma](./img/risco_liso.jpg)
+![The dramatic cliffs around Caldera Taburiente offer a near-uninterrupted geological journey deep into the volcanic interior of La Palma](./img/riscoLiso.jpg)
 
 # Tour overview
 

@@ -15,7 +15,7 @@ La Palma was subsequently visited by the eminent  [uniformitarianist](https://en
 
 While Lyell's uniformitarianist view was closer to reality than von Buch's, more recent research shows that La Palma has also experienced it's share of catastrophic events too. 
 
-![A cross-section across La Palma created by Charles Lyell following his visit. This clearly distinguishes the dense and heavily intruded basalts formed below sea level and overlying volcanic flows and deposits formed once the volcano emerged from the ocean.](./img/LyellSection.jpg)
+![A cross-section across La Palma created by Charles Lyell following his visit. This clearly distinguishes the dense and heavily intruded basalts formed below sea level and overlying volcanic flows and deposits formed once the volcano emerged from the ocean.](./img/lyellSection.jpg)
 
 ## Volcanoes and landslides
 

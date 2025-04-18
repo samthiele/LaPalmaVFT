@@ -9,7 +9,7 @@ Es famosa por su rica biodiversidad, sus densos bosques de laurisilva y sus prof
 Esta excursión virtual te permite explorar algunas de estas maravillas y ver el funcionamiento interno de este dinámico volcán *insular oceánico*.
 
 ![La Palma es la isla más occidental del archipiélago canario. También es una de las más jóvenes (desde el punto de vista geológico) y con mayor actividad volcánica](https://astro-travels.com/pictures/Canarias-1.jpg)
-![Los espectaculares acantilados que rodean la Caldera Taburiente ofrecen un viaje geológico casi ininterrumpido a las profundidades del interior volcánico de La Palma](./img/risco_liso.jpg)
+![Los espectaculares acantilados que rodean la Caldera Taburiente ofrecen un viaje geológico casi ininterrumpido a las profundidades del interior volcánico de La Palma](./img/riscoLiso.jpg)
 > youtube https://www.youtube.com/embed/ECNQMA5hgm0?si=-BNPeT-l3nDHtSZT
 
 *Explora el increíble paisaje y el pasado geológico de La Palma en esta excursión virtual, desde la cima de un antiguo volcán, pasando por antiguas erupciones y deslizamientos de tierra, hasta el volcán submarino que se encuentra en el corazón de la isla.*

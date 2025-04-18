@@ -9,7 +9,7 @@ Auf dieser virtuellen Exkursion können Sie einige dieser Wunder erkunden und ei
 
 ![La Palma ist die westlichste Insel der Kanarischen Inselgruppe. Sie ist auch eine der jüngsten (geologisch gesehen) und vulkanisch aktivsten Inseln](https://astro-travels.com/pictures/Canarias-1.jpg)
 
-![Die dramatischen Klippen rund um die Caldera Taburiente bieten eine nahezu ununterbrochene geologische Reise tief in das vulkanische Innere von La Palma](./img/risco_liso.jpg)
+![Die dramatischen Klippen rund um die Caldera Taburiente bieten eine nahezu ununterbrochene geologische Reise tief in das vulkanische Innere von La Palma](./img/riscoLiso.jpg)
 
 > youtube https://www.youtube.com/embed/ECNQMA5hgm0?si=-BNPeT-l3nDHtSZT
 

@@ -9,7 +9,7 @@ Sie ist bekannt für ihre reiche Artenvielfalt, dichten Lorbeerwälder und tiefe
 Auf dieser virtuellen Exkursion können Sie einige dieser Wunder erkunden und einen Blick in das Innere dieses dynamischen *Ozeaninselvulkans* werfen.
 
 ![La Palma ist die westlichste Insel der Kanarischen Inselgruppe. Sie ist auch eine der jüngsten (geologisch gesehen) und vulkanisch aktivsten Inseln](https://astro-travels.com/pictures/Canarias-1.jpg)
-![Die dramatischen Klippen rund um die Caldera Taburiente bieten eine nahezu ununterbrochene geologische Reise tief in das vulkanische Innere von La Palma](./img/risco_liso.jpg)
+![Die dramatischen Klippen rund um die Caldera Taburiente bieten eine nahezu ununterbrochene geologische Reise tief in das vulkanische Innere von La Palma](./img/riscoLiso.jpg)
 
 # Tourübersicht
 Auf dieser Tour erkunden wir einige geologisch interessante Orte auf La Palma, wobei wir uns besonders auf die flachen, mit Magma gefüllten Brüche (Dykes und Sills) konzentrieren, die Vulkanausbrüche speisen. Das Verständnis dieser „Rohrleitungssysteme“ ist entscheidend für unsere Fähigkeit, zukünftige Ausbrüche vorherzusagen und deren möglichen Zeitpunkt und Dauer zu prognostizieren.
