@@ -6,9 +6,9 @@ Test your knowledge of scoria cones and basaltic eruptions with some quick quest
 ---
 
 
-*Where can the oldest rocks on La Palma be found?*
-- [ ] Cumbre Nueva
-- [ ] Cumbre Vieja
-- [x] Caldera Taburiente
+*What are the large bubbles of gas that pop to form Strombolian eruptions called?*
+- [ ] Ladybugs
+- [x] Slugs
+- [ ] Snails
 
 ---

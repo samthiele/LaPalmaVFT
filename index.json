@@ -21,7 +21,7 @@
             "Guide": ["./md/geology/guide_en.md","./md/geology/guide_es.md","./md/geology/guide_de.md"],
             "Questions": ["./md/geology/questions_en.md","./md/geology/questions_es.md","./md/geology/questions_de.md"]  },
         "view": {
-            "pos": [7133.74806328849,-337.18827951971844,109768.94904922805],
+            "pos": [7133.748533807047,-337.15435170426144,75851.77200595727],
             "style": "geology",
             "tgt": [7133.749611628183,-337.0766329500352,-1871.0008852439091]  }  },
     "hoyonegro": {
@@ -359,12 +359,15 @@
             "label6": {
                 "html": "El Teide (Tenerife)",
                 "pos": [-7.505823009035764,2.922287073373309,98.74060983116485]  },
-            "label7": {
-                "html": "Dyke with drainback structures",
-                "pos": [-86.89227179298994,-47.51877726583677,3.072203610462523]  },
             "label8": {
                 "html": "<a href='./#/losandenes1'>Los Andenes</a>",
-                "pos": [96.92673934803172,-7.352924887404159,19.76756228416775]  }  },
+                "pos": [96.92673934803172,-7.352924887404159,19.76756228416775]  },
+            "label7": {
+                "html": "Dyke with drainback and scour structures",
+                "pos": [-86.30524611547034,-48.51063973751075,3.6801691023076253]  },
+            "label9": {
+                "html": "downhill flow",
+                "pos": [-91.1270706716101,-38.50622270619186,6.20360439634663]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/muchachos/ps.jpg",
         "tabs": {

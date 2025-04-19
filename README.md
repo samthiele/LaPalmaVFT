@@ -11,9 +11,9 @@ Enjoy!
 
 ## Contact and Contribute
 
-If you find mistakes or would like to contribute content to this VFT, then please reach out! I would also be very interest to hear how you use it. 
+If you find mistakes (I'm sure there are many), or would like to contribute content to this VFT, then please reach out! I would also be very interest to hear how you use it. 
 
-The easiest way to start is to create an `Issue` (this can also be e.g., an idea) [here](https://github.com/samthiele/LaPalmaVFT/issues).
+The easiest way to start is to create an `Issue` (this can also be e.g., an idea) [here](https://github.com/samthiele/LaPalmaVFT/issues). You can also [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this GitHub repository to make taylored changes for specific teaching goals.
 
 GitHub stars are also appreciated!
 
