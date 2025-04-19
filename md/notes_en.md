@@ -4,9 +4,9 @@
 - Document your observations and findings.
 - Record e.g., class activities or assignments.
 
-Double click to edit and enter your thoughts (in markdown). Use `shift+enter` to finish editing.
+`Double click` to edit and enter your thoughts (in markdown). Use `shift+enter` to finish editing.
 
-When finished, don't forget to download your notes when you're finished, as they won't be saved otherwise!
+*Don't forget to download your notes (using the button below) when you're finished, as they won't be saved otherwise!*
 
 ## Measurements
 
