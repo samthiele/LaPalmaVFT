@@ -9,11 +9,23 @@
                 "html": "<a href='./#start'>Return to start</a>",
                 "pos": [9871.243929358332,2025.1615344175482,-803.8728547680221]  },
             "label2": {
-                "html": "Tajogaite",
-                "pos": [683.8462346908777,-5827.901636859417,1810.3388252531706]  },
-            "label3": {
+                "html": "Tajogaite vent (2021)",
+                "pos": [852.7496024481179,-5753.950866330717,1910.6903975537182]  },
+            "label4": {
+                "html": "<span style='color: #42E000;'>Approximate location of Garaf\u00eda collapse scar (1.2 Ma)</span>",
+                "pos": [3830.452746125353,9486.620826397897,2632.229468443146]  },
+            "label5": {
+                "html": "<span style='color:#D10034;'>Bejenado collapse scar (~440 ka)</span>",
+                "pos": [-982.6719597477736,1662.4753710893299,1591.9975167186333]  },
+            "label7": {
+                "html": "<span style='color: #FFCD00;'>Cumbre Nueva collapse scar (~560 ka)</span>",
+                "pos": [3062.9727028372076,525.2401147941792,2080.303219559415]  },
+            "label6": {
                 "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
-                "pos": [-1436.1141289602904,5683.56769054309,600.7602018377311]  }  },
+                "pos": [-1256.3765396668466,6118.347517757494,726.327577588123]  },
+            "label3": {
+                "html": "<span style='color: #FF7300;'>Post collapse erosion</span>",
+                "pos": [-689.0411261926038,8616.137614529278,1757.5978101322237]  }  },
         "mediaType": "cloud",
         "mediaURL": "LaPalma.zarr",
         "pointSize": 38,
@@ -21,9 +33,9 @@
             "Guide": ["./md/geology/guide_en.md","./md/geology/guide_es.md","./md/geology/guide_de.md"],
             "Questions": ["./md/geology/questions_en.md","./md/geology/questions_es.md","./md/geology/questions_de.md"]  },
         "view": {
-            "pos": [7133.748533807047,-337.15435170426144,75851.77200595727],
+            "pos": [1230.9565410066732,2528.7787777190306,31797.23175303266],
             "style": "geology",
-            "tgt": [7133.749611628183,-337.0766329500352,-1871.0008852439091]  }  },
+            "tgt": [1230.9569555779042,2528.812764844718,-1870.998503606062]  }  },
     "hoyonegro": {
         "labels": {
             "label1": {
@@ -160,6 +172,26 @@
         "view": {
             "pos": [17.827109986927073,-107.30289870268358,-119.99860185221632],
             "tgt": [-10.18396170090826,-86.98178801959914,-140.40656106140628]  }  },
+    "hoyoverdecliffe": {
+        "labels": {
+            "label1": {
+                "html": "<a href=\"./#start\">Return to Start</a>",
+                "pos": [-31.35116232863804,-116.64721203105609,-114.6540854066607]  },
+            "label2": {
+                "html": "<a href='./#idafe'>Next stop: Barranco de las Angustias</a>",
+                "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
+            "label3": {
+                "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "HoyoVerdeCliff.zarr",
+        "pointSize": 0.1,
+        "tabs": {
+            "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
+            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+        "view": {
+            "pos": [28.349087625601236,-126.23553021264539,-96.01226966716573],
+            "tgt": [-5.363828735216131,-31.024212435439942,-124.47136676183936]  }  },
     "idafe": {
         "labels": {
             "label1": {
@@ -461,6 +493,7 @@
     "hoyoverdecliffb": "hoyoverdecliffb",
     "hoyoverdecliffc": "hoyoverdecliffc",
     "hoyoverdecliffd": "hoyoverdecliffd",
+    "hoyoverdecliffe": "hoyoverdecliffe",
     "idafe": "idafe",
     "losandenes1": "losandenes1",
     "losandenes1a": "losandenes1a",

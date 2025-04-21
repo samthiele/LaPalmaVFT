@@ -13,4 +13,4 @@ It is also a fantastic place to observe Canary Island pine trees. This distincti
 
 Not far from La Cumbrecita is a recent landslide scar exposing a mysterious volcanic structure resembling a "lava worm". If you have any ideas how this might have formed, let me know!
 
-![Zoom-lens photo of an unusual, "worm-like" structure crosscutting welded scoria deposits. The "drop-like" shape implies some form of downward propagation, perhaps as the lava accumulated at the head of the "worm" re-melted (the presumably still very hot) scoria below it, allowing it to "burrow" downwards. Unfortunately this outcrop is cut by a recent rockfall, and so is completely unaccessible (and dangerous to approach).](img/lavaworm.jpg)}
+![Zoom-lens photo of an unusual, "worm-like" structure crosscutting welded scoria deposits. The "drop-like" shape implies some form of downward propagation, perhaps as the lava accumulated at the head of the "worm" re-melted (the presumably still very hot) scoria below it, allowing it to "burrow" downwards. Unfortunately this outcrop is cut by a recent rockfall, and so is completely unaccessible (and dangerous to approach).](img/lavaworm.jpg)

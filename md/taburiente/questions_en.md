@@ -8,12 +8,12 @@ Test your knowledge of Caldera Taburiente with some quick questions.
 - [ ] One enormous landslide
 - [ ] Caldera collapse
 - [x] Erosion
-- [ ] Aliens
 - [ ] Cataclysmic upheaval
+- [ ] Aliens
 
 ---
 
-*The rocks exposed in the base of Caldera Taburiente form the:*
+*The rocks exposed in the deepest parts of Caldera Taburiente form the:*
 - [ ] Cumbre Vieja Volcano
 - [ ] Volcàn Taburiente
 - [x] Seamount Complex
@@ -21,9 +21,3 @@ Test your knowledge of Caldera Taburiente with some quick questions.
 - [ ] Bejenado Volcano
 
 ---
-
-*Caldera Taburiente was once a lake?*
-- [x] True
-- [ ] False
----
-

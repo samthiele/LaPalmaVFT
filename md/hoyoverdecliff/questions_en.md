@@ -5,10 +5,10 @@ Test your knowledge of dykes and sills with some quick questions.
 
 ---
 
+*Are the volcanic rocks at older or younger than those at Los Andenes?*
 
-*Where can the oldest rocks on La Palma be found?*
-- [ ] Cumbre Nueva
-- [ ] Cumbre Vieja
-- [x] Caldera Taburiente
+- [ ] Younger
+- [x] Older
+- [ ] Approximately the same
 
 ---
