@@ -23,11 +23,14 @@ Caldera Taburiente was hugely important to the pre-invasion indigenous populatio
 
 Due to it's natural walls, Caldera Taburiente was also the last stronghold of the La Palma Guanches. Chief Tanausú was able to fend off the Spanish until he was [ambushed](https://islandmomma.wordpress.com/2014/07/16/tanausu-and-acerina-a-story-of-love-betrayal-from-la-palma/) during supposed peace talks in 1493. 
 
+![Rock engravings are common along the rim of Caldera Taburiente, suggesting the indigenous Guanches's also used these heights for star-gazing activities](./img/petroglyphs.jpg)
+
 Following the Spanish invasion, a thriving sugar industry emerged on La Palma. This economic model exploited slave labour transported from the nearby African coast, and the rich water resources of Caldera Taburiente. The "sugar plantation" model was so successful that it was subsequently duplicated during the Spanish conquest of the Americas. 
 
 Water also became a valuable resource, as it was needed to irrigate the sugar (and, more recently, banana) crops. This demand rapidly exploited the easily accessible water resources, leading to the construction of hundreds of kilometers of tunnels into La Palma's flanks to access groundwater held in the porous volcanic rocks. Water from many of these galleries can be seen emerging from Caldera Taburiente today.
 
-![Rock engravings are common along the rim of Caldera Taburiente, suggesting the indigenous Guanches's also used these heights for star-gazing activities](./img/petroglyphs.jpg)
+![The entrance to a water mining tunnel ("galleria") in Caldera Taburiente. Note the water pipe on the right that brings groundwater to the irrigation channels providing water to banana plantations.](./img/galleria.jpg)
+
 
 > youtube https://www.youtube.com/embed/KZVWp2fFR3k?si=pqT-qKFsJYRlVF_l
 

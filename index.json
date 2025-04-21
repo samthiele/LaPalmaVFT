@@ -42,7 +42,7 @@
                 "html": "Volcanic bombs",
                 "pos": [-24.297223801802925,-44.07634263142001,-85.38275954304113]  },
             "label6": {
-                "html": "<a href='./#losandenes1'>See what happens beneath a volcanic vent at Los Andenes</a>",
+                "html": "<a href='./#losandenes1e'>See what happens beneath a volcanic vent at Los Andenes</a>",
                 "pos": [-82.95486070932371,-39.767641826570795,-37.0783736559599]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/hoyonegro/ps.jpg",
@@ -209,8 +209,8 @@
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
             "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
-            "pos": [15.210031787526967,12.515012006453125,480.6822936308767],
-            "tgt": [15.209944313748986,12.514524513529656,-13.53309427827359]  }  },
+            "pos": [4.91906174723982,-10.742703366887577,470.3973728814145],
+            "tgt": [4.91878076221877,-10.743097459401577,-13.5330680854216]  }  },
     "losandenes1a": {
         "labels": {
             "label1": {
@@ -289,8 +289,8 @@
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
             "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
-            "pos": [106.86598762012102,7.384907364201364,39.07163699228352],
-            "tgt": [152.93446804369188,-21.757421204810033,20.641144011529843]  }  },
+            "pos": [64.55191964720711,46.03154811586748,47.51574135768598],
+            "tgt": [128.554304753384,-21.414628733493597,11.46592189245649]  }  },
     "losandenes1e": {
         "labels": {
             "label1": {
@@ -298,7 +298,13 @@
                 "pos": [162.773380168665,-3.3562559653941655,13.844687476864621]  },
             "label2": {
                 "html": "<a href='./#hoyoverdecliff'>Next stop: Hoyo Verde</a>",
-                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  }  },
+                "pos": [-131.49826928821025,64.30151826146188,15.140043064146795]  },
+            "label3": {
+                "html": "<a href='./#/muchachos'>See vent textures at Roque Muchachos</a>",
+                "pos": [43.42405540572798,-88.76031473761672,53.00770401630751]  },
+            "label4": {
+                "html": "<a href='./#/hoyonegro'>See modern scoria cone at Hoyo Negro</a>",
+                "pos": [-37.43941736150714,-69.86392826532409,56.05857328034219]  }  },
         "mediaType": "cloud",
         "mediaURL": "LosAndenes1.zarr",
         "pointSize": 0.125,
@@ -359,12 +365,12 @@
             "label6": {
                 "html": "El Teide (Tenerife)",
                 "pos": [-7.505823009035764,2.922287073373309,98.74060983116485]  },
-            "label8": {
-                "html": "<a href='./#/losandenes1'>Los Andenes</a>",
-                "pos": [96.92673934803172,-7.352924887404159,19.76756228416775]  },
             "label7": {
                 "html": "Dyke with drainback and scour structures",
                 "pos": [-86.30524611547034,-48.51063973751075,3.6801691023076253]  },
+            "label8": {
+                "html": "<a href='./#/losandenes1e'>Los Andenes</a>",
+                "pos": [96.92673934803172,-7.352924887404159,19.76756228416775]  },
             "label9": {
                 "html": "downhill flow",
                 "pos": [-91.1270706716101,-38.50622270619186,6.20360439634663]  }  },

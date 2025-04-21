@@ -3,7 +3,7 @@
 
 Cumbre Vieja is an elongate north-south trending ridge that forms the southern part of La Palma. It is the youngest volcano on La Palma, and is still active. The lava that erupted during the 2021 eruption was sourced from deep below Cumbre Vieja, and migrated over several days upwards and sideways to ultimately form the volcanic vent and lava flows at Tajogaite.
 
-This crater, called Hoyo Negro, is nearer the summit of Cumbre Vieja and formed during an eruption in [1949](https://www.volcanocafe.org/cumbre-vieja-and-the-san-juan-eruption-of-1949/). The prominent hole was built by large explosions, caused by degassing of the underlying magma (causing pressure to build up under Hoyo Negro) and explosive interactions between hot magma and groundwater.
+This crater, called Hoyo Negro, is nearer the summit of Cumbre Vieja and formed during an eruption in [1949](https://www.volcanocafe.org/cumbre-vieja-and-the-san-juan-eruption-of-1949/). The prominent hole was built by large explosions, caused by degassing of the underlying magma (causing pressure to build up under Hoyo Negro) and [explosive interactions between hot magma and groundwater](https://www.sciencedirect.com/science/article/pii/S0377027399001080).
 
 These latter *phreatomagmatic* deposited the distinctively yellow layers of ash, due to chemical reactions between the hot ash and water to form a series of distinctive clay minerals known as [palagonite](https://en.wikipedia.org/wiki/Palagonite).
 
