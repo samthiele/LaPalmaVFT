@@ -10,6 +10,8 @@ The point-clouds and associated interpretations presented in this virtual field 
 
 Please refer to these publications for further specific details. Furthermore, if you use any of the presented point clouds for published works then appropriate citations would also be appreciated  ツ
 
+Larger scale point-cloud datasets were created using [freely available LiDAR data from the Spanish government](https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LIDA2).
+
 The photospheres used for this VFT were sourced from: [https://www.lapalma-360.com/en/Menu.html](https://www.lapalma-360.com/en/Menu.html).
 
 ## Further reading

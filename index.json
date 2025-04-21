@@ -3,6 +3,50 @@
 "cloudURL": "https://storage.googleapis.com/rockhopper",
 "languages": ["en","es","de"],
 "sites": {
+    "bejenadolandslidedeposits": {
+        "labels": {
+            "label1": {
+                "html": "<a href='./#losandenes1'>Next stop: Los Andenes</a>",
+                "pos": [326.11779700696735,3326.5127316750904,562.8146030055486]  },
+            "label10": {
+                "html": "To Bejenado",
+                "pos": [-550.0174032753214,-3591.8272586184803,-363.22581112835263]  },
+            "label11": {
+                "html": "<a href='./#taburiente'>Return to caldera overview</a>",
+                "pos": [-2170.2531276089217,-3249.0974585200215,-1096.6212959889629]  },
+            "label2": {
+                "html": "Roque Idafe",
+                "pos": [-282.95564123943535,-2271.250667295672,-868.1142714882161]  },
+            "label3": {
+                "html": "<a href='./#start'>Return to Start</a>",
+                "pos": [-2190.028472057024,-3473.914163161022,-1166.251136058635]  },
+            "label4": {
+                "html": "<a href='./#muchachos'>Roque de los Muchachos</a>",
+                "pos": [-989.4816630338483,2319.140925664012,833.8009951605396]  },
+            "label5": {
+                "html": "Roque de la Brevera Macha",
+                "pos": [-476.8406278966613,-1667.8944103378349,-744.0112528425843]  },
+            "label6": {
+                "html": "<a href='./#observatory'>Observatory</a>",
+                "pos": [-546.6126717609383,3088.7263198286187,779.9797531663348]  },
+            "label7": {
+                "html": "<a href='./#mirador'>Mirador de la Cumbrecita</a>",
+                "pos": [1796.7807412179723,-3648.204703185306,-179.7417429347274]  },
+            "label8": {
+                "html": "Roque Salvaje",
+                "pos": [-58.57992153606203,-1205.511349007746,-676.5169492733474]  },
+            "label9": {
+                "html": "Roque de la Vi\u00f1a",
+                "pos": [-507.54107358534327,-322.4956930171903,-556.8597718068661]  }  },
+        "mediaType": "cloud",
+        "mediaURL": "Taburiente.zarr",
+        "pointSize": 5,
+        "tabs": {
+            "Guide": ["./md/taburiente/guide_en.md","./md/taburiente/guide_es.md","./md/taburiente/guide_de.md"],
+            "Quizz": ["./md/taburiente/questions_en.md","./md/taburiente/questions_es.md","./md/taburiente/questions_de.md"]  },
+        "view": {
+            "pos": [-296.6698910208168,-1907.4307741249938,4652.763100718547],
+            "tgt": [-296.6695481188704,-1907.4253370961085,-776.7735921516406]  }  },
     "geology": {
         "labels": {
             "label1": {
@@ -11,21 +55,21 @@
             "label2": {
                 "html": "Tajogaite vent (2021)",
                 "pos": [852.7496024481179,-5753.950866330717,1910.6903975537182]  },
+            "label3": {
+                "html": "<span style='color: #FF7300;'>Post collapse erosion</span>",
+                "pos": [-689.0411261926038,8616.137614529278,1757.5978101322237]  },
             "label4": {
                 "html": "<span style='color: #42E000;'>Approximate location of Garaf\u00eda collapse scar (1.2 Ma)</span>",
                 "pos": [3830.452746125353,9486.620826397897,2632.229468443146]  },
             "label5": {
                 "html": "<span style='color:#D10034;'>Bejenado collapse scar (~440 ka)</span>",
                 "pos": [-982.6719597477736,1662.4753710893299,1591.9975167186333]  },
-            "label7": {
-                "html": "<span style='color: #FFCD00;'>Cumbre Nueva collapse scar (~560 ka)</span>",
-                "pos": [3062.9727028372076,525.2401147941792,2080.303219559415]  },
             "label6": {
                 "html": "<a href='./#taburiente'>Caldera Taburiente</a>",
                 "pos": [-1256.3765396668466,6118.347517757494,726.327577588123]  },
-            "label3": {
-                "html": "<span style='color: #FF7300;'>Post collapse erosion</span>",
-                "pos": [-689.0411261926038,8616.137614529278,1757.5978101322237]  }  },
+            "label7": {
+                "html": "<span style='color: #FFCD00;'>Cumbre Nueva collapse scar (~560 ka)</span>",
+                "pos": [3062.9727028372076,525.2401147941792,2080.303219559415]  }  },
         "mediaType": "cloud",
         "mediaURL": "LaPalma.zarr",
         "pointSize": 38,
@@ -197,9 +241,6 @@
             "label1": {
                 "html": "Basaltic dyke",
                 "pos": [87.49629914541745,-0.6115465260427925,-46.5410020569043]  },
-            "label2": {
-                "html": "Felsic (Trachyte) dyke",
-                "pos": [68.04864349646752,12.231759270237452,-70.94302800867693]  },
             "label3": {
                 "html": "Sheeted dyke complex",
                 "pos": [59.80287114785192,-27.531828011203235,-74.0020439473367]  },
@@ -214,7 +255,10 @@
                 "pos": [-30.65486332515828,52.89696796924013,78.01039404385673]  },
             "label7": {
                 "html": "<a href='./#taburiente'>To Caldera Taburiente</a>",
-                "pos": [40.80396425816281,11.985649124153044,89.54706678063752]  }  },
+                "pos": [40.80396425816281,11.985649124153044,89.54706678063752]  },
+            "label2": {
+                "html": "Felsic dyke",
+                "pos": [66.40239478237241,6.10141978048303,-73.42653575986681]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/idafe/ps.jpg",
         "tabs": {
@@ -358,17 +402,20 @@
                 "html": "Risco Liso",
                 "pos": [-90.69835161399116,20.166687961780955,34.3119417375909]  },
             "label4": {
-                "html": "Volcanic breccia, possibly formed by the collapse of Volc\u00e0n Garaf\u00eca",
-                "pos": [29.61211273603182,30.804159183739106,-89.54844163902499]  },
+                "html": "Volcanic breccia formed by the collapse of Volc\u00e0n Garaf\u00eda",
+                "pos": [29.30255614526867,26.212750458212316,-91.03790274302888]  },
             "label5": {
                 "html": "<a href='https://en.wikipedia.org/wiki/Pinus_canariensis'>Endemic pine trees!</a>",
                 "pos": [-25.977495851800928,55.987750672070646,-77.59656652041815]  },
             "label6": {
                 "html": "<a href='./#muchachos'>Roque de los Muchachos</a>",
                 "pos": [-97.20277502607182,19.332802154892548,1.2787669274189377]  },
+            "label7": {
+                "html": "Bejenado",
+                "pos": [6.391335224722941,31.470305949508493,93.76161832791567]  },
             "label8": {
-                "html": "<a href='img/cumbrecitaBreccia.jpg'><img src='img/cumbrecitaBreccia.jpg' width='150px'></a>Matrix-rich volcanic breccia",
-                "pos": [83.12328737726762,-1.507392688725977,-53.87343375303162]  }  },
+                "html": "Hoyo Verde",
+                "pos": [-98.72986352770619,2.8657054627685015,7.760568705399547]  }  },
         "mediaType": "photosphere",
         "mediaURL": "./img/mirador/ps.jpg",
         "tabs": {
@@ -464,6 +511,9 @@
             "label1": {
                 "html": "<a href='./#losandenes1'>Next stop: Los Andenes</a>",
                 "pos": [326.11779700696735,3326.5127316750904,562.8146030055486]  },
+            "label2": {
+                "html": "<a href='./#bejenadolandslidedeposits'>Bejenado landslide deposits</a>",
+                "pos": [-640.8085282763599,-1827.0808087539892,-826.6059102365671]  },
             "label3": {
                 "html": "<a href='./#start'>Return to Start</a>",
                 "pos": [-2190.028472057024,-3473.914163161022,-1166.251136058635]  },
@@ -486,6 +536,7 @@
             "pos": [-29.08415024077983,144.22755900945126,11886.24427075173],
             "tgt": [-29.083670015666875,144.23970591257498,-233.33545387364657]  }  }  },
 "synonyms": {
+    "bejenadolandslidedeposits": "bejenadolandslidedeposits",
     "geology": "geology",
     "hoyonegro": "hoyonegro",
     "hoyoverdecliff": "hoyoverdecliff",

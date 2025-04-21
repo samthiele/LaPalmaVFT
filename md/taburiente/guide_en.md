@@ -34,7 +34,17 @@ Water also became a valuable resource, as it was needed to irrigate the sugar (a
 
 > youtube https://www.youtube.com/embed/KZVWp2fFR3k?si=pqT-qKFsJYRlVF_l
 
-## The Bejenado collapse
+## [Bejenado landslide deposits](./#bejenadolandslidedeposits)
 -----
 
-- todo
+Several prominent rocks ("roques") impose over the  valley at the base of Caldera Taburiente. The base of these are all defined by distinctive "slide surfaces" - planar discontinuities with notable linear grooves in them. Above these discontinuities, the rocks comprise a [breccia](https://en.wikipedia.org/wiki/Breccia) of broken-up fragments of basalt lavas and dykes, all supported by an abundant fine-grained cement-like matrix. 
+
+These breccias were [formed](https://www.sciencedirect.com/science/article/pii/S0377027303000696) about 440 thousand years ago when the north side of the Bejenado volcano collapsed into the incipient Caldera Taburiente. Bejenado is thought to have grown very quickly after the collapse of Volcàn Taburiente, likely above a foundation of weak landslide deposits, so it is perhaps not surprising that it was unstable too.
+
+![Roque Salvaje (right) cuts an imposing figure over the rugged topography in the base of Caldera Taburiente. Bejenado sits shrouded in clouds in the background.](img/dronePano.jpg)
+
+![Slide surfaces at the base of Roque Salvaje. Note the sub-horizontal grooves on the slide surface. These indicate the transport direction of the overlying landslide (debris avalanche) deposits](img/debrisAvalanche.jpg)
+
+## [Next site - Los Andenes](./#losandenes1)
+
+The next site in this tour, Los Andenes, sits on the rim of Caldera Taburiente, next to the highest point on La Palma. Here we will see some of the volcanic rocks that were erupted from Volcàn Taburiente prior to it's collapse 560 thousand years ago. 
