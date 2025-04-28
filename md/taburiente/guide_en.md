@@ -37,9 +37,9 @@ Water also became a valuable resource, as it was needed to irrigate the sugar (a
 ## [Bejenado landslide deposits](./#bejenadolandslidedeposits)
 -----
 
-Several prominent rocks ("roques") impose over the  valley at the base of Caldera Taburiente. The base of these are all defined by distinctive "slide surfaces" - planar discontinuities with notable linear grooves in them. Above these discontinuities, the rocks comprise a [breccia](https://en.wikipedia.org/wiki/Breccia) of broken-up fragments of basalt lavas and dykes, all supported by an abundant fine-grained cement-like matrix. 
+Several prominent rocks ("roques") impose over the  valleys forming the bottom of Caldera Taburiente. The base of these roques are all defined by distinctive "slide surfaces" - planar discontinuities with notable linear grooves on them. Above the discontinuities, the rocks comprise a [breccia](https://en.wikipedia.org/wiki/Breccia) of broken fragments of basalt lavas and dykes, all supported by an abundant fine-grained matrix. 
 
-These breccias were [formed](https://www.sciencedirect.com/science/article/pii/S0377027303000696) about 440 thousand years ago when the north side of the Bejenado volcano collapsed into the incipient Caldera Taburiente. Bejenado is thought to have grown very quickly after the collapse of Volcàn Taburiente, likely above a foundation of weak landslide deposits, so it is perhaps not surprising that it was unstable too.
+These breccias were [formed](https://www.sciencedirect.com/science/article/pii/S0377027303000696) about 440 thousand years ago when the north side of the Bejenado volcano collapsed northwards into the incipient Caldera Taburiente. Bejenado is thought to have grown very quickly after the collapse of Volcàn Taburiente, on a foundation of weak landslide deposits, so it is perhaps not surprising that it was unstable too.
 
 ![Roque Salvaje (right) cuts an imposing figure over the rugged topography in the base of Caldera Taburiente. Bejenado sits shrouded in clouds in the background.](img/dronePano.jpg)
 
