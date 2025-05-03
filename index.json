@@ -75,7 +75,7 @@
         "pointSize": 30,
         "tabs": {
             "Guide": ["./md/geology/guide_en.md","./md/geology/guide_es.md","./md/geology/guide_de.md"],
-            "Questions": ["./md/geology/questions_en.md","./md/geology/questions_es.md","./md/geology/questions_de.md"]  },
+            "Quizz": ["./md/geology/questions_en.md","./md/geology/questions_es.md","./md/geology/questions_de.md"]  },
         "view": {
             "pos": [1230.9565410066732,2528.7787777190306,31797.23175303266],
             "style": "geology",
@@ -120,7 +120,7 @@
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
             "pos": [309.3471338246039,-420.81106555480875,143.40332127914422],
             "tgt": [39.7436073417919,31.291169123791356,-9.06673471856191]  }  },
@@ -140,7 +140,7 @@
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
             "pos": [31.671608899150186,-85.57668894203965,90.82572314865578],
             "tgt": [-6.8114354684004965,23.10632522086868,58.33987456664948]  }  },
@@ -160,10 +160,10 @@
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
-            "pos": [33.07978412504233,-44.07339002387805,117.38199762682513],
-            "tgt": [3.6821161120499566,15.566584748106267,55.076049797424886]  }  },
+            "pos": [43.49880158855814,-48.31046118979382,78.92832067835197],
+            "tgt": [13.196880349306298,9.425922857115575,49.43515536264668]  }  },
     "hoyoverdecliffc": {
         "labels": {
             "label1": {
@@ -174,13 +174,22 @@
                 "pos": [11.195340575531747,-91.50290864120146,-158.9719705802005]  },
             "label3": {
                 "html": "<a href='./#/losandenes1'>Back to Los Andenes</a>",
-                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  }  },
+                "pos": [11.704430422253946,68.7721015884415,170.7930968909396]  },
+            "label4": {
+                "html": "Sill margin crosscuts bedding",
+                "pos": [-39.18818603518387,-6.668134562546211,38.137842472731975]  },
+            "label5": {
+                "html": "Approximately bedding parallel sill",
+                "pos": [18.37306455193785,-13.293103386742375,-40.826128233487786]  },
+            "label6": {
+                "html": "Sill center approaches bedding orientation",
+                "pos": [26.6920123977505,14.899633430902144,25.9802089424193]  }  },
         "mediaType": "cloud",
         "mediaURL": "HoyoVerdeCliff.zarr",
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
             "pos": [60.80672068753063,-233.9635373429784,42.88314844481518],
             "tgt": [-4.715749108878812,-9.090078116792151,-14.290090881105375]  }  },
@@ -212,9 +221,9 @@
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
-            "pos": [17.827109986927073,-107.30289870268358,-119.99860185221632],
+            "pos": [7.022991409878859,-99.46486623166152,-127.87013256938738],
             "tgt": [-10.18396170090826,-86.98178801959914,-140.40656106140628]  }  },
     "hoyoverdecliffe": {
         "labels": {
@@ -232,7 +241,7 @@
         "pointSize": 0.1,
         "tabs": {
             "Guide": ["./md/hoyoverdecliff/guide_en.md","./md/hoyoverdecliff/guide_es.md","./md/hoyoverdecliff/guide_de.md"],
-            "Questions": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
+            "Quizz": ["./md/hoyoverdecliff/questions_en.md","./md/hoyoverdecliff/questions_es.md","./md/hoyoverdecliff/questions_de.md"]  },
         "view": {
             "pos": [28.349087625601236,-126.23553021264539,-96.01226966716573],
             "tgt": [-5.363828735216131,-31.024212435439942,-124.47136676183936]  }  },
@@ -283,7 +292,7 @@
         "pointSize": 0.12,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [4.91906174723982,-10.742703366887577,470.3973728814145],
             "tgt": [4.91878076221877,-10.743097459401577,-13.5330680854216]  }  },
@@ -306,7 +315,7 @@
         "pointSize": 0.125,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [-75.59017109813672,42.270112793997804,32.149193167002],
             "tgt": [-118.12667187403459,40.43601782012479,20.244971191774393]  }  },
@@ -323,7 +332,7 @@
         "pointSize": 0.125,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [-2.2793291810799587,42.489519879576925,49.63652562479804],
             "tgt": [-56.03004747344655,-42.57682744118312,31.536773087091703]  }  },
@@ -346,7 +355,7 @@
         "pointSize": 0.125,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [11.552093658458116,-47.856076062778484,30.628215181925444],
             "tgt": [-2.3231422403856934,-63.413658881757534,30.746445419009795]  }  },
@@ -363,7 +372,7 @@
         "pointSize": 0.125,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [64.55191964720711,46.03154811586748,47.51574135768598],
             "tgt": [128.554304753384,-21.414628733493597,11.46592189245649]  }  },
@@ -386,7 +395,7 @@
         "pointSize": 0.125,
         "tabs": {
             "Guide": ["./md/losandenes1/guide_en.md","./md/losandenes1/guide_es.md","./md/losandenes1/guide_de.md"],
-            "Questions": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
+            "Quizz": ["./md/losandenes1/questions_en.md","./md/losandenes1/questions_es.md","./md/losandenes1/questions_de.md"]  },
         "view": {
             "pos": [94.64003634920037,275.12123020202654,2.2766193789386815],
             "tgt": [31.78428871365649,-58.96694990938422,7.524989225193115]  }  },
@@ -511,6 +520,9 @@
             "label1": {
                 "html": "<a href='./#losandenes1'>Next stop: Los Andenes</a>",
                 "pos": [326.11779700696735,3326.5127316750904,562.8146030055486]  },
+            "label2": {
+                "html": "<a href='./#bejenadolandslidedeposits'>Bejenado landslide deposits</a>",
+                "pos": [-636.8006033833708,-1828.333601352392,-821.1814826447783]  },
             "label3": {
                 "html": "<a href='./#start'>Return to Start</a>",
                 "pos": [-2190.028472057024,-3473.914163161022,-1166.251136058635]  },
@@ -522,10 +534,7 @@
                 "pos": [-546.6126717609383,3088.7263198286187,779.9797531663348]  },
             "label7": {
                 "html": "<a href='./#mirador'>Mirador de la Cumbrecita</a>",
-                "pos": [1796.7807412179723,-3648.204703185306,-179.7417429347274]  },
-            "label2": {
-                "html": "<a href='./#bejenadolandslidedeposits'>Bejenado landslide deposits</a>",
-                "pos": [-636.8006033833708,-1828.333601352392,-821.1814826447783]  }  },
+                "pos": [1796.7807412179723,-3648.204703185306,-179.7417429347274]  }  },
         "mediaType": "cloud",
         "mediaURL": "Taburiente.zarr",
         "pointSize": 5,

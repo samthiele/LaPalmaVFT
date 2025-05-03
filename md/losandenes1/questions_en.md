@@ -22,7 +22,7 @@ Test your knowledge of scoria cones and basaltic eruptions with some quick quest
 
 ----
 
-*Blocky and slow moving flows created when relatively viscous basalt erupts are called:*
+*Blocky and slow moving basaltic lava flows are called:*
 
 - [ ] Obsidian
 - [ ] Pahoehoe
